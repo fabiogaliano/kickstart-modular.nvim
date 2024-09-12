@@ -62,4 +62,5 @@ vim.opt.scrolloff = 999
 
 vim.opt.virtualedit = 'block'
 
+vim.opt.termguicolors = true
 -- vim: ts=2 sts=2 sw=2 et
